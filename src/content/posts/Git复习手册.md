@@ -1,3 +1,12 @@
+---
+title: "Git 基础复习手册"
+published: 2026-09-03
+description: "概念图解 + 命令速查 + 测验题，由浅入深掌握 Git 核心操作"
+tags: ["Git", "版本控制", "学习笔记"]
+category: "技术教程"
+draft: false
+---
+
 # 🎓 Git 基础复习手册
 
 > 由 absolute-ULT 亲手实践整理（2026-09-03），配套仓库 `pracirtce` 里的 20+ 次真实提交。
