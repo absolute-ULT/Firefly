@@ -7,7 +7,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "星星博客小屋",
+	title: "蓝莓味汽水",
 
 	// 站点副标题
 	subtitle: "Demo site",
@@ -17,11 +17,11 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"欢迎来到星星博客小屋，用于分享个人的思考、学习和工作经历。",
+		"欢迎来到蓝莓味汽水，用于分享个人的思考、学习和工作经历。",
 
 	// 站点关键词
 	keywords: [
-		"星星博客小屋",
+		"蓝莓味汽水",
 		"个人博客",
 		"个人网站",
 		"学生",
